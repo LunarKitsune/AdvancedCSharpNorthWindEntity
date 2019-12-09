@@ -1,0 +1,16 @@
+C:\Users\Ken\source\repos\NorthWindDataEntity\NorthWindDataEntity\bin\Debug\Northwind.mdf
+C:\Users\Ken\source\repos\NorthWindDataEntity\NorthWindDataEntity\bin\Debug\Northwind_log.ldf
+C:\Users\Ken\source\repos\NorthWindDataEntity\NorthWindDataEntity\bin\Debug\EntityFramework.dll
+C:\Users\Ken\source\repos\NorthWindDataEntity\NorthWindDataEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ken\source\repos\NorthWindDataEntity\NorthWindDataEntity\bin\Debug\EntityFramework.xml
+C:\Users\Ken\source\repos\NorthWindDataEntity\NorthWindDataEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ken\source\repos\NorthWindDataEntity\NorthWindDataEntity\obj\Debug\NorthWindDataEntity.Properties.Resources.resources
+C:\Users\Ken\source\repos\NorthWindDataEntity\NorthWindDataEntity\obj\Debug\NorthWindDataEntity.csproj.GenerateResource.cache
+C:\Users\Ken\source\repos\NorthWindDataEntity\NorthWindDataEntity\obj\Debug\NorthWindDataEntity.csproj.CopyComplete
+C:\Users\Ken\source\repos\NorthWindDataEntity\NorthWindDataEntity\obj\Debug\NorthWindDataEntity.exe
+C:\Users\Ken\source\repos\NorthWindDataEntity\NorthWindDataEntity\obj\Debug\NorthWindDataEntity.pdb
+C:\Users\Ken\source\repos\NorthWindDataEntity\NorthWindDataEntity\obj\Debug\NorthWindDataEntity.csprojAssemblyReference.cache
+C:\Users\Ken\source\repos\NorthWindDataEntity\NorthWindDataEntity\bin\Debug\NorthWindDataEntity.exe.config
+C:\Users\Ken\source\repos\NorthWindDataEntity\NorthWindDataEntity\bin\Debug\NorthWindDataEntity.exe
+C:\Users\Ken\source\repos\NorthWindDataEntity\NorthWindDataEntity\bin\Debug\NorthWindDataEntity.pdb
+C:\Users\Ken\source\repos\NorthWindDataEntity\NorthWindDataEntity\obj\Debug\NorthWindDataEntity.frmMain.resources
